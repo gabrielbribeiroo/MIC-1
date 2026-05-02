@@ -50,6 +50,8 @@ Kod iznad implementira MULD m instrukciju, pri cemu je ac := 3 na pocetku. Outpu
 ```
 koji se stavlja u ROM komponentu oglednog procesora. Ovaj skup instrukcija je uspjesno testiran na VHDL test benchu oglednog procesora.
 
+This project is licensed under the [MIT License](LICENSE).
+
 Limitacije:
 * Konstante 1, -1 i 0 se obiljezavaju sa (+1), (0), (-1) respektivno
 * Umjesto band koristiti ^ operator
